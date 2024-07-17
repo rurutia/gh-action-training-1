@@ -20,6 +20,8 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 updated readme
 
+test magic string [skip ci]
+
 ## 📆 Agenda
 
 ### Day 1: 🚀 Getting started
