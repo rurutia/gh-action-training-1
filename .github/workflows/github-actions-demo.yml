@@ -6,8 +6,8 @@ on:
     paths-ignore: [.github/**]
   pull_request:
     branches: [main]
-  schedule:
-    - cron: '*/10 * * * *'
+  # schedule:
+  #   - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
