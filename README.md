@@ -22,6 +22,8 @@ updated readme
 
 test magic string [skip ci]
 
+test PR trigger
+
 ## 📆 Agenda
 
 ### Day 1: 🚀 Getting started
